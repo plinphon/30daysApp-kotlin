@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">30 Day Workout</string>
+
+    <!-- Day Titles -->
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+
+
+    <!-- Workouts -->
+    <string name="workout_1">20-Minute Walk/Run</string>
+    <string name="workout_desc_1">Take a brisk 20-minute walk or light jog to boost your heart rate and improve cardiovascular health.</string>
+
+    <string name="workout_2">15 Push-Ups</string>
+    <string name="workout_desc_2">Perform 15 push-ups to strengthen your chest, shoulders, and triceps. Modify by using knees if needed.</string>
+
+    <string name="workout_3">20-Minute Yoga Session</string>
+    <string name="workout_desc_3">Enjoy a calming yoga session to improve flexibility, balance, and mental clarity.</string>
+
+    <string name="workout_4">20 Air Squats</string>
+    <string name="workout_desc_4">Complete 20 air squats to build strength in your legs and glutes while improving mobility.</string>
+
+    <string name="workout_5">15-Minute Stretching Routine</string>
+    <string name="workout_desc_5">Stretch major muscle groups to improve flexibility and reduce muscle tension.</string>
+
+    <string name="workout_6">10-Minute Core Workout (Planks, Sit-Ups)</string>
+    <string name="workout_desc_6">Focus on your abs and back muscles with a 10-minute core workout including planks and sit-ups.</string>
+
+    <string name="workout_7">Rest Day (Light Walking Optional)</string>
+    <string name="workout_desc_7">Take a rest day to allow your muscles to recover. Light walking is optional to stay active.</string>
+
+    <string name="workout_8">10 Burpees + 15 Jumping Jacks</string>
+    <string name="workout_desc_8">Combine 10 burpees and 15 jumping jacks for a quick full-body cardio boost.</string>
+
+    <string name="workout_9">20-Minute Cycling</string>
+    <string name="workout_desc_9">Cycle for 20 minutes to strengthen your legs and improve endurance.</string>
+
+    <string name="workout_10">12 Lunges (Each Leg)</string>
+    <string name="workout_desc_10">Perform 12 lunges per leg to target your quads, hamstrings, and glutes.</string>
+
+    <string name="workout_11">15-Minute Pilates Session</string>
+    <string name="workout_desc_11">Engage your core and improve flexibility with a 15-minute Pilates session.</string>
+
+    <string name="workout_12">25 Crunches</string>
+    <string name="workout_desc_12">Do 25 crunches to strengthen your abdominal muscles and build core stability.</string>
+
+    <string name="workout_13">20-Minute Swim</string>
+    <string name="workout_desc_13">Swim for 20 minutes to build endurance and improve your overall fitness in a low-impact way.</string>
+
+    <string name="workout_14">Rest Day (Meditation or Breathing Exercises)</string>
+    <string name="workout_desc_14">Take a rest day and focus on mindfulness with meditation or deep breathing exercises.</string>
+
+    <string name="workout_15">10 push-ups + 15 Air Squats</string>
+    <string name="workout_desc_15">Combine 10 push-ups and 15 air squats to engage your upper and lower body.</string>
+
+    <string name="workout_16">20-Minute HIIT (High-Intensity Interval Training)</string>
+    <string name="workout_desc_16">Perform a 20-minute HIIT session to maximize calorie burn and improve cardio endurance.</string>
+
+    <string name="workout_17">12 Side Plank Dips (Each Side)</string>
+    <string name="workout_desc_17">Strengthen your obliques with 12 side plank dips on each side.</string>
+
+    <string name="workout_18">15-Minute Resistance Band Workout</string>
+    <string name="workout_desc_18">Use a resistance band to target various muscle groups in this 15-minute session.</string>
+
+    <string name="workout_19">30 Second Plank Hold (3 Sets)</string>
+    <string name="workout_desc_19">Hold a plank for 30 seconds and repeat 3 sets to strengthen your core and back.</string>
+
+    <string name="workout_20">10-Minute Jump Rope</string>
+    <string name="workout_desc_20">Jump rope for 10 minutes to improve coordination, cardio, and stamina.</string>
+
+    <string name="workout_21">Rest Day (Optional: Light Walking)</string>
+    <string name="workout_desc_21">Enjoy a rest day, or opt for a light walk to stay active while recovering.</string>
+
+    <string name="workout_22">15-Minute Balance &amp; Stability Exercises</string>
+    <string name="workout_desc_22">Focus on balance and stability with simple exercises like single-leg stands or wobble board training.</string>
+
+    <string name="workout_23">15 Push-Ups + 15 Jumping Jacks</string>
+    <string name="workout_desc_23">Boost your strength and cardio by combining push-ups and jumping jacks.</string>
+
+    <string name="workout_24">20-Minute Dance Workout</string>
+    <string name="workout_desc_24">Enjoy a 20-minute dance session to burn calories and have fun.</string>
+
+    <string name="workout_25">20 Tricep Dips</string>
+    <string name="workout_desc_25">Strengthen your triceps with 20 dips using a sturdy surface like a chair.</string>
+
+    <string name="workout_26">15-Minute Cardio (Running, Cycling, or Swimming)</string>
+    <string name="workout_desc_26">Choose between running, cycling, or swimming for a 15-minute cardio session.</string>
+
+    <string name="workout_27">30 Air Squats</string>
+    <string name="workout_desc_27">Perform 30 air squats to build leg strength and improve lower body mobility.</string>
+
+    <string name="workout_28">Rest Day (Optional: Mobility Exercises)</string>
+    <string name="workout_desc_28">Rest or do some light mobility exercises to improve joint range of motion.</string>
+
+    <string name="workout_29">15-Minute Full-Body Stretch</string>
+    <string name="workout_desc_29">Stretch your entire body to relieve muscle tension and improve flexibility.</string>
+
+    <string name="workout_30">10 Burpees + 10 Push-Ups + 10 Crunches</string>
+    <string name="workout_desc_30">Finish strong with 10 burpees, 10 push-ups, and 10 crunches for a full-body workout.</string>
+</resources>
+
+
+
